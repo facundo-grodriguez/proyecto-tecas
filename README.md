@@ -42,8 +42,6 @@ Cada alumno tiene los siguientes atributos:
 
 ## Uso
 
-## Uso
-
 1. **Instalación**: 
    - Clona el repositorio:
      ```bash
