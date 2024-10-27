@@ -29,8 +29,8 @@ Este proyecto permite gestionar información sobre alumnos, incluyendo sus datos
 - **Proceso**: Se revisan todas las notas y se presenta la más alta entre Nota1 y Nota2.
 
 ### 6. Promedio General
-- **Descripción**: Calcula el promedio de las notas de todos los alumnos.
-- **Método**: Se suman todas las notas y se divide por el número total de alumnos.
+- **Descripción**: Calcula el promedio de las notas de cada alumno.
+- **Método**: Se suman todas las notas y se divide por el número total de notas.
 
 ## Estructura de Datos
 
