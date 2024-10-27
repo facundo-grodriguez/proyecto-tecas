@@ -1,6 +1,6 @@
 class Alumno
 {
-    //Generamos los tipos de datos 
+    //Genere los tipos de datos 
     public string DNI {get; set;}
     public string Nombre {get; set;}
     public double Nota1 {get; set;}
