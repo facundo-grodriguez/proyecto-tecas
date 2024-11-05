@@ -55,7 +55,7 @@ Cada alumno tiene los siguientes atributos:
 
    - **Agregar un alumno**:
      ```bash
-     agregar_alumno --dni 12345678 --nombre "Juan Pérez" --nota1 8.5 --nota2 9.0
+     agregar_alumno --dni 12345678 --nombre "Juan Pérez" --nota 8.5 
      ```
 
    - **Eliminar un alumno**:
