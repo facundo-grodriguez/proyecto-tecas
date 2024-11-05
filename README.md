@@ -9,8 +9,7 @@ Este proyecto permite gestionar información sobre alumnos, incluyendo sus datos
 - **Datos requeridos**:
   - **DNI**: Identificador único del alumno.
   - **Nombre**: Nombre completo del alumno.
-  - **Nota1**: Primera nota del alumno.
-  - **Nota2**: Segunda nota del alumno.
+  - **Nota**: Nota del alumno.
 
 ### 2. Baja de Alumno
 - **Descripción**: Permite eliminar un alumno del sistema usando su DNI.
@@ -26,7 +25,7 @@ Este proyecto permite gestionar información sobre alumnos, incluyendo sus datos
 
 ### 5. Nota Más Alta
 - **Descripción**: Permite obtener la nota más alta de todos los alumnos.
-- **Proceso**: Se revisan todas las notas y se presenta la más alta entre Nota1 y Nota2.
+- **Proceso**: Se revisan todas las notas y se presenta la más alta.
 
 ### 6. Promedio General
 - **Descripción**: Calcula el promedio de las notas de cada alumno.
@@ -35,10 +34,9 @@ Este proyecto permite gestionar información sobre alumnos, incluyendo sus datos
 ## Estructura de Datos
 
 Cada alumno tiene los siguientes atributos:
-- **DNI**: `String`
-- **Nombre**: `String`
-- **Nota1**: `Float`
-- **Nota2**: `Float`
+- **DNI**: `int`
+- **Nombre**: `string`
+- **Nota**: `double`
 
 ## Uso
 
@@ -86,5 +84,3 @@ Cada alumno tiene los siguientes atributos:
      ```
 
 3. **Contribuciones**: Si deseas contribuir, abre un pull request con tus cambios y asegúrate de seguir las pautas de estilo del código.
-
-3. **Contribuciones**: Instrucciones sobre cómo contribuir al proyecto.
