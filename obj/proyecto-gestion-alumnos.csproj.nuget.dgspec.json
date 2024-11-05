@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\frc\\Desktop\\proyecto-gestion-alumnos\\proyecto-gestion-alumnos.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Escritorio\\proyecto-gestion-alumnos\\proyecto-gestion-alumnos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\frc\\Desktop\\proyecto-gestion-alumnos\\proyecto-gestion-alumnos.csproj": {
+    "C:\\Users\\User\\OneDrive\\Escritorio\\proyecto-gestion-alumnos\\proyecto-gestion-alumnos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frc\\Desktop\\proyecto-gestion-alumnos\\proyecto-gestion-alumnos.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\proyecto-gestion-alumnos\\proyecto-gestion-alumnos.csproj",
         "projectName": "proyecto-gestion-alumnos",
-        "projectPath": "C:\\Users\\frc\\Desktop\\proyecto-gestion-alumnos\\proyecto-gestion-alumnos.csproj",
-        "packagesPath": "C:\\Users\\frc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frc\\Desktop\\proyecto-gestion-alumnos\\obj\\",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\proyecto-gestion-alumnos\\proyecto-gestion-alumnos.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\proyecto-gestion-alumnos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\frc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
