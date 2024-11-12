@@ -51,13 +51,16 @@ public class Programa
                 Logica.Modificacion();
                 break;
             case 4:
-                Logica.Consulta();
+                string resultadoConsulta = Logica.Consulta();
+                Console.WriteLine(resultadoConsulta);
                 break;
             case 5:
-                Logica.NotaMasAlta();
+                string resultadoNotaMasAlta = Logica.NotaMasAlta();
+                Console.WriteLine(resultadoNotaMasAlta);
                 break;
             case 6:
-                Logica.PromedioGeneral();
+                string resultadoPromedioGral = Logica.PromedioGeneral();
+                Console.WriteLine(resultadoPromedioGral);
                 break;
             case 7:
                 Console.WriteLine("Saliendo del programa...");
