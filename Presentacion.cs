@@ -3,26 +3,26 @@
 public class Programa
 {
     public static void Main()
-{
-    int opcion;
-    do
     {
-        MostrarMenu();
-
-        // Lee la entrada y verifica si es un número válido
-        string? input = Console.ReadLine();
-
-        if (int.TryParse(input, out opcion))
+        int opcion;
+        do
         {
-            EjecutarOpcion(opcion);
-        }
-        else
-        {
-            Console.WriteLine("Por favor, ingrese un número válido.");
-        }
+            MostrarMenu();
 
-    } while (opcion != 7);
-}
+            // Lee la entrada y verifica si es un número válido
+            string? input = Console.ReadLine();
+
+            if (int.TryParse(input, out opcion))
+            {
+                EjecutarOpcion(opcion);
+            }
+            else
+            {
+                Console.WriteLine("Por favor, ingrese un número válido.");
+            }
+
+        } while (opcion != 7);
+    }
 
     static void MostrarMenu()
     {
